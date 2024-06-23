@@ -1,0 +1,2 @@
+# SCC
+Super Cool Calculator
