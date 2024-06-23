@@ -1,2 +1,4 @@
-# SCC
-Super Cool Calculator
+# SCc
+Super Cool cALCULATOR
+
+~WORK IN PROGRESS~
